@@ -16,7 +16,7 @@
 
 ---
 
-I'm student <a href=https://www.iths.se/>@IT-Högskolan</a> where im undertaking a 2 year program to become a Full stack Java develper
+I'm student <a href=https://www.iths.se/>@IT-Högskolan</a> where im undertaking a 2 year program to become a Full stack Java developer
 
 On my spare time im learning Rust :yum:
 
