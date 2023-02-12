@@ -5,13 +5,16 @@
 </div>
 
 <h1>
-  hey there
+  Well hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
 
-I'm student <a href=https://www.iths.se/>@IT-Högskolan</a>@ where im undertaking a 2 year program to beacome a Full stack Java develper
+I'm student <a href=https://www.iths.se/>@IT-Högskolan</a> where im undertaking a 2 year program to become a Full stack Java develper
+
+On my spare time im learning Rust :yum:
+
 
 
 
@@ -26,6 +29,8 @@ I'm student <a href=https://www.iths.se/>@IT-Högskolan</a>@ where im undertakin
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 
 
