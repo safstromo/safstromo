@@ -16,10 +16,7 @@
 
 ---
 
-I'm student <a href=https://www.iths.se/>@IT-Högskolan</a> where im undertaking a 2 year program to become a Full stack Java developer
-
-On my spare time im learning Rust :yum:
-
+Fullstack developer proficient in Java and React, building web applications by day. Passionate about learning Rust in spare time for its performance and safety benefits. Always eager to expand skills and tackle new challenges. 💻🚀
 
 
 
