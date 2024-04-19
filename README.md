@@ -22,6 +22,8 @@ Passionate about learning Rust in spare time for its performance and safety bene
 
 Always eager to expand skills and tackle new challenges. 💻🚀
 
+I like building keyboards. Check out my [keyboard repo](https://github.com/safstromo/keyboards) for some of my builds.
+
 
 
 ---
