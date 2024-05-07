@@ -18,7 +18,7 @@
 
 Fullstack developer proficient in Java and React, building web applications by day. 
 
-Passionate about learning Rust in spare time for its performance and safety benefits. 
+Passionate about learning Rust and Go in spare time for its performance and safety benefits. 
 
 Always eager to expand skills and tackle new challenges. 💻🚀
 
