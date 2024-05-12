@@ -15,6 +15,7 @@
 </div>
 
 ---
+My <a href="https://rabbitnook.com">Profile page<a> made with Rust and Leptos
 
 Fullstack developer proficient in Java and React, building web applications by day. 
 
