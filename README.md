@@ -17,11 +17,9 @@
 ---
 My <a href="https://rabbitnook.com">Profile page<a> made with Rust and Leptos
 
-Fullstack developer proficient in Java and React, building web applications by day. 
+Fullstack developer working with Rust, Java and React on a daily basis. 
 
-Passionate about learning Rust in spare time for its performance and safety benefits. 
-
-Always eager to expand skills and tackle new challenges. 💻🚀
+Always eager to expand skills and tackle new challenges. 
 
 I like building keyboards. Check out my [keyboard repo](https://github.com/safstromo/keyboards) for some of my builds.
 
